@@ -1,89 +1,64 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-<h1 align="center">Hi there, I am David Peralta 🗿<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+# 👋 Hello, folks!
+<h1 align="center">Hi, I'm David Peralta 🧠</h1>
 
-![](https://komarev.com/ghpvc/?username=DavidPeralta&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
-<br>
-<h1>About me 🙋</h1>
+![](https://komarev.com/ghpvc/?username=DavidPeralta&color=blueviolet&label=🧩_Thanks+for+visiting!)
 
-- 🎒 I am a student at SENA.
-- 💻 I am specializing in backend development with Python.
-- 💚 I am building projects to improve my skills.
-- 📚 I am currently learning Python for backend development, including Django, FastAPI, database management, and advanced programming concepts.
+---
 
-<br>
+## 🙋 Sobre mí
 
+Soy un aprendiz de backend con una meta clara: convertirme en ingeniero de software especializado en inteligencia artificial y big data. Me estoy formando con proyectos reales, práctica constante y mucha lectura de documentación. No tengo todas las respuestas, pero estoy comprometido con aprender desde la raíz.
 
-## My Skills Include
+Actualmente uso Python como mi lenguaje principal y me concentro en construir soluciones limpias, escalables y enfocadas en datos.
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
+---
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</span>
+## 🧰 Habilidades actuales
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h4> IDE </h4>
-<span>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-</span>
+### Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-1793D1?style=for-the-badge&logo=data&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</span>
+### Herramientas y tecnologías
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-------
+---
 
-## Currently Learning :beginner:
+## 🚀 Aprendiendo ahora
 
-- **Advanced Backend Development**
+- Fundamentos de IA y Machine Learning con Python
+- Estructuras y entrenamiento de redes neuronales
+- Procesamiento de datos con pandas y NumPy
+- Desarrollo de APIs con FastAPI
+- Automatización y despliegue con Docker y GitHub Actions
+- Pruebas, logging y buenas prácticas en código backend
 
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=60px src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> 
-</td>
-</tr>
-</tbody>
-</table>
+---
 
-- **Database Optimization**
-<table>
-<tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+## 🎯 Proyecto de vida
 
-- **Topics from my Intensive Python Learning Path**
-  - Python core concepts (syntax, functions, lists, dictionaries, OOP).
-  - Modular programming and project structuring.
-  - SQL databases (SQLite & PostgreSQL) and ORM (SQLAlchemy).
-  - API development with FastAPI, authentication & security.
-  - Software testing with Pytest and debugging techniques.
-  - Deployment of backend applications (Heroku, Render).
-  - Optimization, logging, and best coding practices.
-  - Contributing to open-source projects and participating in hackathons.
+Formarme como profesional en ingeniería de software con especialización en inteligencia artificial y big data. En el camino aprenderé desde los fundamentos hasta el entrenamiento y despliegue de modelos, integrándolos en soluciones reales. No tengo prisa, tengo enfoque.
 
-<hr>
+---
+
+## 📫 Contacto
+
+- 📧 Correo: crdavidperalta@gmail.com
+- 🌐 PortFolio: https://david-peralta-rd.github.io/my-portfolio-v2/
+- 💼 LinkedIn: https://www.linkedin.com/in/david-peralta-380652366/
+- 📍 Ubicación: Colombia
+
+---
+
+Gracias por pasar por aquí. ¡Seguimos aprendiendo! 🧪
