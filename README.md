@@ -1,64 +1,112 @@
-# 👋 Hello, folks!
-<h1 align="center">Hi, I'm David Peralta 🧠</h1>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=DavidPeralta&color=blueviolet&label=🧩_Thanks+for+visiting!)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          CRISTIAN DAVID RODRIGUEZ PERALTA                    ║
+║                                                              ║
+║       AI Engineer in progress · Backend Developer            ║
+║          Data Analyst · Bogotá, Colombia 🇨🇴                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-peralta-380652366)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crdavidperalta@gmail.com)
+![Remote Ready](https://img.shields.io/badge/Remote-Ready-1A56DB?style=for-the-badge)
 
-## 🙋 About me
-
-I'm a backend apprentice with a clear goal: to become a software engineer specialized in artificial intelligence and big data. I'm training with real projects, constant practice, and a lot of documentation reading. I don't have all the answers, but I'm committed to learning from the ground up.
-
-I currently use Python as my primary language and focus on building clean, scalable, and data-driven solutions.
-
----
-
-## 🧰 Current skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-1793D1?style=for-the-badge&logo=data&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-### Basis of data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools and technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 🚀 Learning now
+## `> whoami`
 
-- Fundamentals of AI and Machine Learning with Python
-- Network structures and training Neural
-- Data processing with Pandas and NumPy
-- API development with FastAPI
-- Automation and deployment with Docker and GitHub Actions
-- Testing, logging, and best practices in backend code
+Backend developer and data analyst with **real enterprise experience** building AI-powered automation at SoftwareOne — where I orchestrated agents that compressed multi-day manual processes into minutes.
 
----
+I'm now going deep on **Machine Learning and AI Engineering**: building projects, sharpening my Python stack, and positioning myself to work on products that matter — remotely, focused, and heads-down in the craft.
 
-## 🎯 Life Project
-
-To become a professional in software engineering with a specialization in artificial intelligence and big data. Along the way, I'll learn everything from the fundamentals to model training and deployment, integrating them into real-world solutions. I'm in no rush; I'm focused.
+> 🏆 **Won the internal AI Prompt Challenge (Bogotá region, SoftwareOne 2025)**  
+> for strategic application of Generative AI in enterprise environments.
 
 ---
 
-## 📫 Contact
+## `> tech_stack`
 
-- 📧 Email: crdavidperalta@gmail.com
-- 🌐 Portfolio: https://david-peralta-rd.github.io/my-portfolio-v2/
-- 💼 LinkedIn: https://www.linkedin.com/in/david-peralta-380652366/
-- 📍 Location: Colombia
+```python
+class CristianRodriguez:
+
+    focus       = ["AI Engineering", "ML", "Backend Development"]
+    currently   = "Building ML projects · Going deep on Python AI stack"
+    open_to     = ["Remote roles", "AI/ML Engineer", "Backend Python Dev"]
+
+    languages   = ["Python", "SQL"]
+    backend     = ["FastAPI", "Django", "REST APIs"]
+    data        = ["Pandas", "PostgreSQL", "SQLite", "Power BI", "DAX"]
+    ai_tools    = ["Prompt Engineering", "AI Agent Orchestration", "Copilot Studio", "LLM Workflows"]
+    learning    = ["PyTorch", "TensorFlow", "Scikit-learn", "MLOps"]
+    devops      = ["Docker", "Git", "GitHub", "Linux"]
+```
 
 ---
 
-Thanks for stopping by. We keep learning! 🧪
+## `> current_mission`
+
+```
+[████████░░░░░░░░░░░░] Building ML portfolio  
+[██████████████░░░░░░] Python AI stack        
+[████████████████████] Prompt Engineering ✓   
+[████████████████████] AI Agent Orchestration ✓
+```
+
+I'm actively building projects in Machine Learning and AI Engineering.  
+This space will fill up fast — **watch this repo**.
+
+---
+
+## `> projects` *(coming soon)*
+
+| Project | Stack | Status |
+|---|---|---|
+| 🔜 ML Project #1 | Python · Scikit-learn · FastAPI | In progress |
+| 🔜 ML Project #2 | Python · PyTorch | Planned |
+| ✅ eCommerce Platform | Django · PostgreSQL · Linux | [View →](#) |
+
+---
+
+## `> enterprise_experience`
+
+**SoftwareOne** · Data Analyst → Backend Developer · *2025 – Present*
+
+- Built AI agents with Copilot Studio that reduced **multi-day processes to minutes**
+- Migrated enterprise BI platform from MicroStrategy → Power BI (DAX)
+- Managed **10TB SharePoint migration**, achieving ~60% storage reduction
+- QA, SQL validation, cross-metric analysis at enterprise scale
+- 🏆 AI Prompt Challenge Winner · Enterprise AI Certification
+
+---
+
+## `> education`
+
+**Technologist in Software Analysis & Development** · SENA · 2023–2025  
+*Associate-level, nationally recognized Colombian technical education*
+
+---
+
+## `> connect`
+
+If you're building something interesting in AI/ML — or looking for a remote Python developer who obsesses over clean code and AI automation — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-peralta-380652366)
+[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crdavidperalta@gmail.com)
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+![Bogotá, Colombia](https://img.shields.io/badge/📍_Bogotá-Colombia-1A56DB?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-111827?style=flat-square)
+
+</div>
