@@ -68,7 +68,7 @@ This space will fill up fast — **watch this repo**.
 
 | Project | Stack | Status |
 |---|---|---|
-| 🔜 ML Project #1 | Python · Scikit-learn · FastAPI | In progress |
+| 🔜 ML Predictor Price #1 | Python · Scikit-learn · Pandas · Matplotlib | In progress |
 | 🔜 ML Project #2 | Python · PyTorch | Planned |
 | ✅ eCommerce Platform | Django · PostgreSQL · Linux | [View →](#) |
 
