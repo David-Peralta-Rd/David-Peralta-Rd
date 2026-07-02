@@ -1,112 +1,59 @@
-<div align="center">
+<h1>Hi there, I'm <a href="https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta/">Cristian David</a> ✌️</h1>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          CRISTIAN DAVID RODRIGUEZ PERALTA                    ║
-║                                                              ║
-║       AI Engineer in progress · Backend Developer            ║
-║          Data Analyst · Bogotá, Colombia 🇨🇴                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I'm a **Software Analysis & Development Technologist** with a deep focus on Data Engineering and Artificial Intelligence, building my path toward AI Engineering through real enterprise experience and relentless self-directed learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-peralta-380652366)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crdavidperalta@gmail.com)
-![Remote Ready](https://img.shields.io/badge/Remote-Ready-1A56DB?style=for-the-badge)
+At SoftwareOne, I worked within a Data Engineering track — fully remote — where I proposed and built specialized AI agents that transformed multi-day workflows into agile, near-error-free processes. That same drive led me to win the internal **AI Prompt Challenge for the Bogotá Region**.
 
-</div>
+I'm passionate about intelligent automation and the idea that a well-designed AI system can completely change how a team works. Currently building my first machine learning model from scratch and exploring local AI inference on personal hardware.
 
----
+If you're building something interesting or want to connect, I'm always open.
 
-## `> whoami`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=500&lines=Data+Engineering+%26+AI+Automation;Building+toward+ML+Engineering;Prompt+Engineering+%26+AI+Agent+Design;Remote-ready+%7C+Bogota%2C+Colombia)](https://git.io/typing-svg)
 
-Backend developer and data analyst with **real enterprise experience** building AI-powered automation at SoftwareOne — where I orchestrated agents that compressed multi-day manual processes into minutes.
+<br>
 
-I'm now going deep on **Machine Learning and AI Engineering**: building projects, sharpening my Python stack, and positioning myself to work on products that matter — remotely, focused, and heads-down in the craft.
+[**Resume**](https://linkedin.com/in/david-peralta-380652366) &nbsp;·&nbsp;
+[**Portfolio**](https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta/) &nbsp;·&nbsp;
+[**LinkedIn**](https://linkedin.com/in/david-peralta-380652366)
 
-> 🏆 **Won the internal AI Prompt Challenge (Bogotá region, SoftwareOne 2025)**  
-> for strategic application of Generative AI in enterprise environments.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+#### What I'm Passionate About
 
-## `> tech_stack`
+- **AI That Solves Real Problems** — Designing intelligent agents and automation workflows that eliminate friction, reduce human error, and free teams to focus on what matters.
+- **Self-Directed Learning** — From prompt engineering to machine learning frameworks, constantly building and learning at my own pace and standard.
+- **Team-Driven Impact** — The best results come from collaboration. Every achievement is shared, and that mindset shapes how I approach every project.
 
-```python
-class CristianRodriguez:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-    focus       = ["AI Engineering", "ML", "Backend Development"]
-    currently   = "Building ML projects · Going deep on Python AI stack"
-    open_to     = ["Remote roles", "AI/ML Engineer", "Backend Python Dev"]
+#### Nice Things That Happened Along The Way
 
-    languages   = ["Python", "SQL"]
-    backend     = ["FastAPI", "Django", "REST APIs"]
-    data        = ["Pandas", "PostgreSQL", "SQLite", "Power BI", "DAX"]
-    ai_tools    = ["Prompt Engineering", "AI Agent Orchestration", "Copilot Studio", "LLM Workflows"]
-    learning    = ["PyTorch", "TensorFlow", "Scikit-learn", "MLOps"]
-    devops      = ["Docker", "Git", "GitHub", "Linux"]
-```
+- Won the **AI Prompt Challenge at SoftwareOne — Bogotá Region** (2025), recognized for designing a structured multi-role prompt combining professional, philosophical, and psychological frameworks to produce exceptional AI output quality.
+- Proposed and built **three specialized AI agents** at SoftwareOne that transformed workflows consuming hours or full days into streamlined, near-error-free processes — adopted by the team after validating results in production.
+- Contributed to a **10 TB SharePoint data migration** as part of a cross-functional team, taking direct ownership of the file release and transfer phase, achieving ~60% storage reduction with zero data loss.
+- Participated in the migration of **15+ analytical dashboards** from MicroStrategy to Power BI, rewriting complex legacy logic into optimized DAX models with rigorous QA validation.
+- Officially graduated as **Technologist in Software Analysis & Development** from SENA (June 2026) — a journey that started in 2023 and required years of discipline and resilience.
+- Presented technical results and progress reports **directly to enterprise clients**, translating complex data into clear, actionable insights.
+- Currently building a **first machine learning model** using Python, Pandas, and Scikit-learn — and exploring local AI model inference on personal hardware (AMD Ryzen 5 5600G, 32 GB RAM, SSD).
 
----
+[**View Portfolio & Projects →**](https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta/)
 
-## `> current_mission`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```
-[████████░░░░░░░░░░░░] Building ML portfolio  
-[██████████████░░░░░░] Python AI stack        
-[████████████████████] Prompt Engineering ✓   
-[████████████████████] AI Agent Orchestration ✓
-```
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=David-Peralta-Rd&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=David-Peralta-Rd&theme=prussian&hide_border=false"
+    height="165"
+  />
+</p>
 
-I'm actively building projects in Machine Learning and AI Engineering.  
-This space will fill up fast — **watch this repo**.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Peralta-Rd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
----
-
-## `> projects` *(coming soon)*
-
-| Project | Stack | Status |
-|---|---|---|
-| 🔜 ML Predictor Price #1 | Python · Scikit-learn · Pandas · Matplotlib | In progress |
-| 🔜 ML Project #2 | Python · PyTorch | Planned |
-| ✅ eCommerce Platform | Django · PostgreSQL · Linux | [View →](#) |
-
----
-
-## `> enterprise_experience`
-
-**SoftwareOne** · Data Analyst → Backend Developer · *2025 – Present*
-
-- Built AI agents with Copilot Studio that reduced **multi-day processes to minutes**
-- Migrated enterprise BI platform from MicroStrategy → Power BI (DAX)
-- Managed **10TB SharePoint migration**, achieving ~60% storage reduction
-- QA, SQL validation, cross-metric analysis at enterprise scale
-- 🏆 AI Prompt Challenge Winner · Enterprise AI Certification
-
----
-
-## `> education`
-
-**Technologist in Software Analysis & Development** · SENA · 2023–2025  
-*Associate-level, nationally recognized Colombian technical education*
-
----
-
-## `> connect`
-
-If you're building something interesting in AI/ML — or looking for a remote Python developer who obsesses over clean code and AI automation — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-peralta-380652366)
-[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crdavidperalta@gmail.com)
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-![Bogotá, Colombia](https://img.shields.io/badge/📍_Bogotá-Colombia-1A56DB?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-111827?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Peralta-Rd&label=Profile%20views&color=0e75b6&style=flat" alt="David-Peralta-Rd" />
+</p>
