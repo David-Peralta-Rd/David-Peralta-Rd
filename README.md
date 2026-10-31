@@ -38,7 +38,7 @@ Dotfiles para Hyprland sobre CachyOS/Arch con una capa de desarrollo asistido po
 - Plantillas `AGENTS.md`, `SPEC.md` y `tasks.md` que separan lo que escribo yo de lo que delego al agente, con revisión humana de cada cambio.
 - Instalador modular en Bash en 5 idiomas, servicios en Lua e interfaz en QML (~5.800 líneas).
 
-### [MercyVentas](https://github.com/David-Peralta-Rd/E-commerce-MercyVentas) — inventario y ventas *(en desarrollo)*
+### [cr-B2C_MercyVentas](https://github.com/David-Peralta-Rd/cr-B2C_MercyVentas) — inventario y ventas *(en desarrollo)*
 Backend Django + Django Ninja + PostgreSQL 18 y frontend Streamlit desacoplados, orquestados con Docker Compose en entornos de producción y desarrollo.
 
 - Builds **multi-stage con `uv`**, usuario no root y healthchecks por servicio.
