@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta/">Portafolio</a> ·
+  <a href="https://david-peralta-rd.github.io/Portfolio_DavidPeralta/">Portafolio</a> ·
   <a href="https://linkedin.com/in/david-peralta-380652366">LinkedIn</a> ·
   <a href="mailto:crdavidperalta@gmail.com">Correo</a>
 </p>
