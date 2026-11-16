@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://david-peralta-rd.github.io/Portfolio_DavidPeralta/">Portafolio</a> ·
+  <a href="https://github.com/David-Peralta-Rd/MinimalistDots_Rs">Portafolio</a> ·
   <a href="https://linkedin.com/in/david-peralta-380652366">LinkedIn</a> ·
   <a href="mailto:crdavidperalta@gmail.com">Correo</a>
 </p>
@@ -30,13 +30,16 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA, 2026).
 
 ## Proyectos
 
-### [MinimalistDots](https://github.com/David-Peralta-Rd/MinimalistDots) — entorno Linux con IA local
-Dotfiles para Hyprland sobre CachyOS/Arch con una capa de desarrollo asistido por IA que corre en mi propia CPU (Ryzen 5 5600G, 32 GB de RAM).
+### [MinimalistDots_Rs](https://github.com/David-Peralta-Rd/MinimalistDots_Rs) — entorno Linux con IA local
+Dotfiles para Hyprland sobre CachyOS/Arch, con una capa de desarrollo asistido por IA que corre en mi propia CPU (Ryzen 5 5600G, 32 GB de RAM). Migrado a Rust para máxima velocidad y un solo binario.
 
-- `ai.sh` levanta un modelo **Qwen3-Coder 30B (Q4, contexto de 32k)** con llama.cpp y lo expone con una **API compatible con OpenAI** y tool calling.
-- Mide el rendimiento real con `llama-bench` y conecta **OpenCode** al modelo local.
-- Plantillas `AGENTS.md`, `SPEC.md` y `tasks.md` que separan lo que escribo yo de lo que delego al agente, con revisión humana de cada cambio.
-- Instalador modular en Bash en 5 idiomas, servicios en Lua e interfaz en QML (~5.800 líneas).
+#### Características
+- **Entorno de escritorio**: Hyprland + Slint (Rust) para menús, notificaciones, reloj y OSD. Waybar/Quickshell sustituidos por `md` (un único binario).
+- **IA local**: `md ai` levanta modelos con llama.cpp (`llama-server`) y los expone con una API compatible con OpenAI + tool calling. Mide rendimiento real con `llama-bench` y conecta OpenCode al modelo local.
+- **Plantillas**: `AGENTS.md`, `SPEC.md` y `tasks.md` que separan lo que escribo yo de lo que delego al agente, con revisión humana de cada cambio.
+- **Instalador modular** en Python (uv) con pasos ordenados, menús fuzzy y 7 idiomas (es, en, fr, pt, de, it, zh). Catálogos TOML en `lang/`.
+- **Servicios en Lua** para Hyprland (reloj, notificaciones, bienvenida, etc.) y windowrules con `hyprland.lib.rules`.
+- **Herramientas incluidas**: grabador de pantalla (gpu-screen-recorder), capturas con grimblast, OCR/QR, portapapeles, pomodoro, gestión de procesos, cambio de idioma en vivo.
 
 ### [B2C_MercyVentas_DavidPeralta](https://github.com/David-Peralta-Rd/cr-B2C_MercyVentas) — inventario y ventas *(en desarrollo)*
 Backend Django + Django Ninja + PostgreSQL 18 y frontend Streamlit desacoplados, orquestados con Docker Compose en entornos de producción y desarrollo.
